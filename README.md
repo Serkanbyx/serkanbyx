@@ -4,5 +4,4 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fserkanbyx&label=visitors&labelColor=%231a1a1a&countColor=%231e2070&style=flat-square)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fserkanbyx&label=visitors&labelColor=%231a1a1a&countColor=%231e2070&style=flat-square)
 </div>
